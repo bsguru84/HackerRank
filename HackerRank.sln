@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Candies", "Candies\Candies.vcxproj", "{1CB96F18-44E6-4D38-95E9-D01C411C90C9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StockMax", "StockMax\StockMax.vcxproj", "{98099BDC-9514-41CC-8021-7EF8AD564F19}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CoinExchange", "CoinExchange\CoinExchange.vcxproj", "{2370D830-446B-4C74-A05F-3D68578B6169}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maxsubarray", "Maxsubarray\Maxsubarray.vcxproj", "{2618E5B9-1FAF-425A-8789-724EA5019146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB96F18-44E6-4D38-95E9-D01C411C90C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CB96F18-44E6-4D38-95E9-D01C411C90C9}.Debug|Win32.Build.0 = Debug|Win32
+		{1CB96F18-44E6-4D38-95E9-D01C411C90C9}.Release|Win32.ActiveCfg = Release|Win32
+		{1CB96F18-44E6-4D38-95E9-D01C411C90C9}.Release|Win32.Build.0 = Release|Win32
+		{98099BDC-9514-41CC-8021-7EF8AD564F19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98099BDC-9514-41CC-8021-7EF8AD564F19}.Debug|Win32.Build.0 = Debug|Win32
+		{98099BDC-9514-41CC-8021-7EF8AD564F19}.Release|Win32.ActiveCfg = Release|Win32
+		{98099BDC-9514-41CC-8021-7EF8AD564F19}.Release|Win32.Build.0 = Release|Win32
+		{2370D830-446B-4C74-A05F-3D68578B6169}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2370D830-446B-4C74-A05F-3D68578B6169}.Debug|Win32.Build.0 = Debug|Win32
+		{2370D830-446B-4C74-A05F-3D68578B6169}.Release|Win32.ActiveCfg = Release|Win32
+		{2370D830-446B-4C74-A05F-3D68578B6169}.Release|Win32.Build.0 = Release|Win32
+		{2618E5B9-1FAF-425A-8789-724EA5019146}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2618E5B9-1FAF-425A-8789-724EA5019146}.Debug|Win32.Build.0 = Debug|Win32
+		{2618E5B9-1FAF-425A-8789-724EA5019146}.Release|Win32.ActiveCfg = Release|Win32
+		{2618E5B9-1FAF-425A-8789-724EA5019146}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

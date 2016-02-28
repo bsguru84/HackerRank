@@ -1,0 +1,17 @@
+﻿Build started 2/28/2016 12:26:42 PM.
+     1>Project "C:\Users\Gururaj\documents\visual studio 2013\Projects\HackerRank\StockMax\StockMax.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(12): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(14): warning C4018: '>' : signed/unsigned mismatch
+     1>main.cpp(44): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(226) : see declaration of 'freopen'
+     1>main.cpp(48): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(59): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(70): warning C4018: '>=' : signed/unsigned mismatch
+     1>Done Building Project "C:\Users\Gururaj\documents\visual studio 2013\Projects\HackerRank\StockMax\StockMax.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.53
