@@ -13,6 +13,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maxsubarray", "Maxsubarray\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShortestReach", "ShortestReach\ShortestReach.vcxproj", "{78B6A82C-9C32-49B9-A2E6-A5889E4A5DCF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BricksGame", "BricksGame\BricksGame.vcxproj", "{1B853B42-5C5E-4AF4-A949-C129416A0049}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gameofstones", "Gameofstones\Gameofstones.vcxproj", "{E5824B2E-FD59-4624-92A0-905EFE927BF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -39,6 +43,14 @@ Global
 		{78B6A82C-9C32-49B9-A2E6-A5889E4A5DCF}.Debug|Win32.Build.0 = Debug|Win32
 		{78B6A82C-9C32-49B9-A2E6-A5889E4A5DCF}.Release|Win32.ActiveCfg = Release|Win32
 		{78B6A82C-9C32-49B9-A2E6-A5889E4A5DCF}.Release|Win32.Build.0 = Release|Win32
+		{1B853B42-5C5E-4AF4-A949-C129416A0049}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B853B42-5C5E-4AF4-A949-C129416A0049}.Debug|Win32.Build.0 = Debug|Win32
+		{1B853B42-5C5E-4AF4-A949-C129416A0049}.Release|Win32.ActiveCfg = Release|Win32
+		{1B853B42-5C5E-4AF4-A949-C129416A0049}.Release|Win32.Build.0 = Release|Win32
+		{E5824B2E-FD59-4624-92A0-905EFE927BF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5824B2E-FD59-4624-92A0-905EFE927BF1}.Debug|Win32.Build.0 = Debug|Win32
+		{E5824B2E-FD59-4624-92A0-905EFE927BF1}.Release|Win32.ActiveCfg = Release|Win32
+		{E5824B2E-FD59-4624-92A0-905EFE927BF1}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
